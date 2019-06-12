@@ -18,7 +18,7 @@ organizations:
   url: "https://sociology.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student in Ohio State's Sociology department. I am affiliated with its Institute for Population Research. 
+bio: I am a graduate student in Ohio State's Sociology department. I am affiliated with the Institute for Population Research. 
 
 interests:
 - Inequality and education
