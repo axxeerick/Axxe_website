@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Erick Axxe
 
 # Username (this should match the folder name)
 authors:
@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Student 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The Ohio State University
+  url: "https://sociology.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a graduate student in Ohio State's Sociology department. I am affiliated with its Institute for Population Research. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Inequality and education
+- Migration and culture
+- Demographic methods
 
 education:
   courses:
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Erick Axxe is a graduate affiliate in the Department of Sociology at The Ohio State University. His research interest includes education and stratification, migration and identity, and demographic methods. He is currently working on the Family Migration and Early Life Outcomes project, an inter-institutional collaboration which investigates the impact migrating family members have on children's socialization, schooling, and transition to adulthood. The project involves longitudinal survey data from Mexico, Mozambique, and Nepal.
