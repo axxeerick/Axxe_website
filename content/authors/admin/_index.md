@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:axxe.1@osu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Erick_Axxe
