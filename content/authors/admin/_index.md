@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:axxe.1@osu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Erick_Axxe
@@ -50,9 +50,9 @@ social:
   link: https://github.com/axxeerick
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-   icon_pack: ai
-   link: static/files/cv.pdf
+#- icon: cv
+#   icon_pack: ai
+#   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
