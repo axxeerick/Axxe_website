@@ -33,9 +33,17 @@ subtitle = ""
   description = ""
 
 [[feature]]
+  icon = "microsof"
+  icon_pack = "fas"
+  name = "Microsoft Office"
+  description = ""
+
+[[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Language"
   description = "German"
+
+
 
 +++
