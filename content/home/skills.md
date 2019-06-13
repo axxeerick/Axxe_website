@@ -22,13 +22,13 @@ subtitle = ""
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Stata"
   description = ""  
   
 [[feature]]
   icon = "certificate"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "NVivo"
   description = ""
 
