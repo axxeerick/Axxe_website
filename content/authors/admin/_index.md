@@ -50,9 +50,9 @@ social:
   link: https://github.com/axxeerick
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-#- icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+   icon_pack: ai
+   link: static/files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,4 +64,4 @@ user_groups:
 - Visitors
 ---
 
-Erick Axxe is a graduate affiliate in the Department of Sociology at The Ohio State University. His research interest includes education and stratification, migration and identity, and demographic methods. He is currently working on the Family Migration and Early Life Outcomes project, an inter-institutional collaboration which investigates the impact migrating family members have on children's socialization, schooling, and transition to adulthood. The project involves longitudinal survey data from Mexico, Mozambique, and Nepal.
+Erick Axxe is a graduate affiliate in the Department of Sociology at The Ohio State University. His research interests include education and stratification, migration and identity, and demographic methods. He is currently working on the Family Migration and Early Life Outcomes project, an inter-institutional collaboration which investigates the impact migrating family members have on children's socialization, schooling, and transition to adulthood. The project involves longitudinal survey data from Mexico, Mozambique, and Nepal. He is also working on the Higher Education Inequality Project which investigates the challenges first-generation college students face through in-depth interviews conducted over students' entire academic careers. 
