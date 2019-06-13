@@ -22,19 +22,19 @@ subtitle = ""
   
 [[feature]]
   icon = "chart-line"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Stata"
   description = ""  
   
 [[feature]]
   icon = "certificate"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "NVivo"
   description = ""
 
 [[feature]]
   icon = "microsof"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Microsoft Office"
   description = ""
 
