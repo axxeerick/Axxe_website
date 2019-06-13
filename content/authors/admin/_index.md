@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BA in Sociology *(Summa Cum Laude)*
+  - course: BA in Sociology *Summa Cum Laude*
     institution: University of Arkansas
     year: 2015
   - course: BA in German
