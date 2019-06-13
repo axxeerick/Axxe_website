@@ -34,7 +34,7 @@ subtitle = ""
 
 [[feature]]
   icon = "microsof"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Microsoft Office"
   description = ""
 
