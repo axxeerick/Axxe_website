@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Graduate Research Assistant"
   company = "Family Migration Context and Early Life Outcomes"
-  company_url = "https://iussp.confex.com/iussp/ipc2017/meetingapp.cgi/Paper/3376"
+  company_url = "https://famelo.netlify.com/"
   location = ""
   date_start = "2018-09-01"
   date_end = ""

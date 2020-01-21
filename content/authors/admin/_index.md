@@ -21,12 +21,15 @@ organizations:
 bio: I am a graduate student in Ohio State's Sociology department and am affiliated with the Institute for Population Research. 
 
 interests:
-- Inequality and education
-- Migration and culture
-- Demographic methods
+- Mobility/Stratification
+- Social Constructionism
+- Methods
 
 education:
   courses:
+    - course: MA in Sociology
+    institution: The Ohio State University
+    year: 2019
   - course: BA in Sociology
     institution: University of Arkansas
     year: 2015
@@ -64,4 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Erick Axxe is a graduate affiliate in the Department of Sociology at The Ohio State University. His research interests include education and stratification, migration and culture, and demographic methods. He is currently working on the Family Migration and Early Life Outcomes project, an inter-institutional collaboration which investigates the impact migrating family members have on children's socialization, schooling, and transition to adulthood. The project involves longitudinal survey data from Mexico, Mozambique, and Nepal. He is also working on the Higher Education Inequality Project which investigates the experiences of first-generation college students through in-depth interviews conducted over students' entire academic careers. 
+Erick Axxe is a graduate affiliate in the [Department of Sociology](https://sociology.osu.edu/) at The Ohio State University. He is a graduate affiliate for the [Institute for Population Research](https://ipr.osu.edu/) and the [Translational Data Analytics Institute](https://tdai.osu.edu/).
+
+His projects include the [Family Migration and Early Life Outcomes](https://famelo.netlify.com/) project and the Higher Education Inequality Project, which investigates the experiences of college students through in-depth interviews conducted over students' entire academic careers. 
+
+His research interests include mobility, stratification, education, race, gender, social constructionism, and methods. 
