@@ -44,6 +44,10 @@ subtitle = ""
   name = "Language"
   description = "German"
 
-
+[[feature]]
+  icon = "python"
+  icon_pack = "fas"
+  name = "Python"
+  description = ""
 
 +++
