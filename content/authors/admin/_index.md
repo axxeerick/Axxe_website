@@ -22,6 +22,7 @@ bio: I am a graduate student in Ohio State's Sociology department and am affilia
 
 interests:
 - Mobility/Stratification
+- Migration
 - Social Constructionism
 - Methods
 
@@ -71,4 +72,4 @@ Erick Axxe is a graduate affiliate in the [Department of Sociology](https://soci
 
 His projects include the [Family Migration and Early Life Outcomes](https://famelo.netlify.com/) project and the Higher Education Inequality Project, which investigates the experiences of college students through in-depth interviews conducted over students' entire academic careers. 
 
-His research interests include mobility, stratification, education, race, gender, social constructionism, and methods. 
+His research interests include mobility, stratification, education, migration, race, gender, social constructionism, and methods. 
