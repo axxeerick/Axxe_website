@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: MA in Sociology
+  - course: MA in Sociology
     institution: The Ohio State University
     year: 2019
   - course: BA in Sociology
