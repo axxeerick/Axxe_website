@@ -21,10 +21,10 @@ organizations:
 bio: I am a graduate student in Ohio State's Sociology department and am affiliated with the Institute for Population Research. 
 
 interests:
-- Mobility/Stratification
-- Migration
-- Social Constructionism
-- Methods
+- Stratification
+- The Transition to Adulthood
+- Computational Social Science
+- Culture
 
 education:
   courses:
@@ -68,8 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Erick Axxe is a graduate affiliate in the [Department of Sociology](https://sociology.osu.edu/) at The Ohio State University. He is a graduate affiliate for the [Institute for Population Research](https://ipr.osu.edu/) and the [Translational Data Analytics Institute](https://tdai.osu.edu/).
+I am a graduate affiliate in the [Department of Sociology](https://sociology.osu.edu/), the [Institute for Population Research](https://ipr.osu.edu/), and the [Translational Data Analytics Institute](https://tdai.osu.edu/) at The Ohio State University.
 
-His projects include the [Family Migration and Early Life Outcomes](https://famelo.netlify.com/) project and the Higher Education Inequality Project, which investigates the experiences of college students through in-depth interviews conducted over students' entire academic careers. 
+I work on the [Family Migration and Early Life Outcomes (FAMELO)](https://famelo.netlify.com/) project and the Higher Education Inequality Project (HEIP), which investigates the experiences of college students through in-depth interviews conducted over students' entire academic careers. 
 
-His research interests include mobility, stratification, education, migration, race, gender, social constructionism, and methods. 
+I currently have two veins of research. The first lies in the realm of Computational Social Science, in which I analyze novel web-based data sources to test for racial and gender inequality. The second investigates how institutions shape identity during the transition to adulthood. My work involves a wide range of data sources: surveys, qualitative interviews, and data scraped from the internet. I am also interested in how social phenomena, such as migration, offers insight into the structure and maintenance of status inequalities. 
