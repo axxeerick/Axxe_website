@@ -52,7 +52,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/axxeerick
-- icon: fa-spotify
+- icon: spotify
   icon_pack: fab
   link: https://open.spotify.com/user/eaxxe?si=Sg2usn26RoK38QEeufpPZA
 # Link to a PDF of your resume/CV from the About widget.
