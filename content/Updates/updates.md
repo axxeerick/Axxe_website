@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-08-01"
   date_end = ""
-  description = "[An Exploration of Subjective Ages of Adulthood in Mexico, Mozambique, and Nepal](/content/post/SubjAdult_ASA2020_Axxe_20200804.pdf)"
+  description = "[An Exploration of Subjective Ages of Adulthood in Mexico, Mozambique, and Nepal](content/post/SubjAdult_ASA2020_Axxe_20200804.pdf)"
 
 [[item]]
   organization = "Virtual Presentation"
@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-08-01"
   date_end = ""
-  description = "[Behind the Cyber Curtain: Discrimination within Airbnb’s Open-Rating System](/posts/ASA2020_AXXE_CHOI_Final.pdf)"
+  description = "[Behind the Cyber Curtain: Discrimination within Airbnb’s Open-Rating System](content/post/ASA2020_AXXE_CHOI_Final.pdf)"
 
 [[item]]
   organization = "Cancelled Due to COVID-19"
