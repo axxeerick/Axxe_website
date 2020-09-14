@@ -14,7 +14,7 @@
   weight = 20
 
   [[main]]
-    name = "Posts"
+    name = "Presentations"
     url = "#posts"
     weight = 25
 
