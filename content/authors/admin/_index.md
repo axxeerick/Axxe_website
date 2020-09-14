@@ -22,7 +22,7 @@ bio: I am a graduate student in Ohio State's Sociology department and am affilia
 
 interests:
 - Stratification
-- The Transition to Adulthood
+- Life Course Studies
 - Computational Social Science
 - Culture
 
