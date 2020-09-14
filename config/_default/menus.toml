@@ -15,7 +15,7 @@
 
   [[main]]
     name = "Presentations"
-    url = "posts"
+    url = "#posts"
     weight = 25
 
 [[main]]
