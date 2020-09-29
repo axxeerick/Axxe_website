@@ -79,6 +79,16 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
+  organization = "Phoenix, Arizona"
+  organization_url = ""
+  title = "FAMELO Team Workshop"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-05-05"
+  date_end = "2019-05-07"
+  description = ""
+
+[[item]]
   organization = "Austin, Texas"
   organization_url = ""
   title = "PAA 2019"
