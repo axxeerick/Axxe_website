@@ -18,6 +18,16 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Virtual Poster Presentation"
+  organization_url = ""
+  title = "5th International NEPS Conference"
+  url = "https://www.neps-data.de/neps-conference2020"
+  certificate_url = ""
+  date_start = "2020-12-07"
+  date_end = ""
+  description = "[Equalizing Opportunity by Stratifying Education? Intergenerational Mobility in Germany across Institution Types](/updates/presentations/NEPS_Axxe_20201204.pdf)"
+
 
 [[item]]
   organization = "Virtual Presentation"
