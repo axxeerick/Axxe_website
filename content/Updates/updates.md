@@ -19,6 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Instructor"
+  organization_url = ""
+  title = "Intro to Sociology"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-11"
+  date_end = "2021-04-23"
+  description = "[Syllabus](/updates/presentations/IntroToSoc_Spr2021_Axxe_20210104.pdf)"
+
+
+[[item]]
   organization = "Virtual Presentation"
   organization_url = ""
   title = "ASA 2020"
