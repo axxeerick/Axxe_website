@@ -29,6 +29,26 @@ date_format = "Jan 2006"
   description = "[Syllabus](/updates/presentations/IntroToSoc_Spr2021_Axxe_20210105.pdf)"
 
 [[item]]
+  organization = "Virtual Poster Presentation"
+  organization_url = ""
+  title = "5th International NEPS Conference"
+  url = "https://www.neps-data.de/neps-conference2020"
+  certificate_url = ""
+  date_start = "2020-12-07"
+  date_end = ""
+  description = "[Equalizing Opportunity by Stratifying Education? Intergenerational Mobility Across Education Types](/updates/presentations/NEPS_Axxe_202011204.pdf)"
+
+[[item]]
+  organization = "Virtual Presentation"
+  organization_url = ""
+  title = "The 2020 Arkansas Sociological and Anthropological Association Meeting"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-11-06"
+  date_end = ""
+  description = "[Race and Gender Disparities in Academic Pay](/updates/presentations/ArkConf_AxxeChoi_20201105.pdf)"
+
+[[item]]
   organization = "Virtual Presentation"
   organization_url = ""
   title = "ASA 2020"
