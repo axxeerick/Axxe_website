@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-12-07"
   date_end = ""
-  description = "[Equalizing Opportunity by Stratifying Education? Intergenerational Mobility Across Education Types](/updates/presentations/NEPS_Axxe_202011204.pdf)"
+  description = "[Equalizing Opportunity by Stratifying Education? Intergenerational Mobility Across Education Types](/updates/presentations/NEPS_Axxe_20201204.pdf)"
 
 [[item]]
   organization = "Virtual Presentation"
