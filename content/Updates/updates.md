@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-01-11"
   date_end = "2021-04-23"
-  description = "[Syllabus](/updates/presentations/IntroToSoc_Spr2021_Axxe_20210105.pdf)"
+  description = "[Syllabus](/updates/presentations/IntroToSoc_Spr2021_Axxe_20210107.pdf)"
 
 [[item]]
   organization = "Virtual Poster Presentation"
