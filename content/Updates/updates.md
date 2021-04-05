@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Author"
+  organization_url = ""
+  title = "Op-Ed submitted to the Arkansas Democrat-Gazette"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-04-01"
+  date_end = "2021-04-05"
+  description = "[Link to Unpublished Piece](/updates/presentations/CRT_ArkDemGaz_Axxe_20210405.pdf)"
+
+[[item]]
   organization = "Instructor"
   organization_url = ""
   title = "Intro to Sociology"
