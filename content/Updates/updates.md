@@ -19,6 +19,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Virtual Presentation"
+  organization_url = ""
+  title = "2021 Southern Southern Sociological Society Annual Meeting"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-04-09"
+  date_end = ""
+  description = "[Race and Gender Disparities in Academic Pay](/updates/presentations/AcademicInequality_SSS_20210408.pdf)"
+
+[[item]]
+  organization = "Virtual Presentation"
+  organization_url = ""
+  title = "Ohio State's 2021 Hayes Research Forum"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-04-09"
+  date_end = ""
+  description = "[Race and Gender Disparities in Academic Pay](/updates/presentations/AcademicInequality_Hayes_20210408.pdf)"
+
+[[item]]
   organization = "Author"
   organization_url = ""
   title = "Op-Ed submitted to the Arkansas Democrat-Gazette"
