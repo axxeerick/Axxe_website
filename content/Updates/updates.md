@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Virtual Presentation"
   organization_url = ""
-  title = "2021 Population Association of America Annual Meeting"
+  title = "2021 Population Association of America Annual Meeting -- Poster Award Winner"
   url = ""
   certificate_url = ""
   date_start = "2021-05-06"
