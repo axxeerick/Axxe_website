@@ -46,7 +46,8 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-01-11"
   date_end = "2021-04-23"
-  description = "[Syllabus](/teaching/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf) \n SEIs"
+  description = """[Syllabus](/teaching/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf)
+  SEIs"""
 
 [[item]]
   organization = "Drake Institute for Teaching and Learning"
@@ -56,7 +57,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-02-25"
   date_end = ""
-  description = "[Completed workshops and assignments on effective online teaching practices.](/Teaching/presentations/OnlineTeaching.pdf)"
+  description = "[Completed workshops and assignments on effective online-teaching practices.](/Teaching/presentations/OnlineTeaching.pdf)"
 
 [[item]]
   organization = "Computational Social Science Research Program"
