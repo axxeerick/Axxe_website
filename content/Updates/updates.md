@@ -99,6 +99,16 @@ date_format = "Jan 2006"
   description = "[Race and Gender Disparities in Academic Pay](/updates/presentations/ArkConf_AxxeChoi_20201105.pdf)"
 
 [[item]]
+  organization = "Study Replication"
+  organization_url = "https://www.cos.io/score"
+  title = "Study Replication for SCORE Project (Center for Open Science"
+  url = "https://osf.io/7qnrs/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e"
+  certificate_url = ""
+  date_start = "2020-09-11"
+  date_end = ""
+  description = "Replicated O'Brien and Noy's 2015 ASR Article on American Perspectives of Religion and Science"
+
+[[item]]
   organization = "Virtual Presentation"
   organization_url = ""
   title = "ASA 2020"
