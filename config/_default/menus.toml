@@ -18,15 +18,15 @@
   url = "files/resume.pdf"
   weight = 22
 
-  [[main]]
-    name = "Updates"
-    url = "updates/"
-    weight = 25
+ [[main]]
+  name = "Updates"
+  url = "updates/"
+  weight = 25
 
-  [[main]]
-    name = "Teaching"
-    url = "Teaching/"
-    weight = 32
+ [[main]]
+  name = "Teaching"
+  url = "Teaching/"
+  weight = 32
 
 #[[main]]
 #  name = "Projects"
