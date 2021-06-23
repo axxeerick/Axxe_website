@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee to develop graduate student training for instructors."
 
 [[item]]
+  organization = "Teaching Award"
+  organization_url = ""
+  title = "Outstanding Independent Instructor"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-05-06"
+  date_end = ""
+  description = "Nominated by students, awarded by Sociology Graduate Student Association"
+
+[[item]]
   organization = "Instructor"
   organization_url = ""
   title = "Intro to Sociology"
