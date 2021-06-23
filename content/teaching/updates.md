@@ -21,12 +21,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Department of Sociology"
   organization_url = ""
-  title = "Graduate Liason for the Instructional Development Committee"
+  title = "Graduate Representative for the Instructional Development Committee"
   url = ""
   certificate_url = ""
   date_start = "2021-06-11"
   date_end = "2022-05-11"
-  description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee to develop graduate student training for instructors."
+  description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee and develop graduate student training for instructors."
 
 [[item]]
   organization = "Teaching Award"
