@@ -51,12 +51,22 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Drake Institute for Teaching and Learning"
   organization_url = ""
-  title = "Online Teaching Endorsement"
+  title = "Teaching Online Endorsement"
   url = ""
   certificate_url = ""
   date_start = "2021-02-25"
   date_end = ""
   description = "[Completed workshops and assignments on effective online teaching practices.](/Teaching/presentations/OnlineTeaching.pdf)"
+
+[[item]]
+  organization = "Computational Social Science Research Program"
+  organization_url = ""
+  title = "Undergraduate Research Training"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-10-26"
+  date_end = ""
+  description = "Trained six undergraduates students in Python and R to gather data off the internet and analyze those data using statistical techniques. Our team also developed software and publications."
 
 [[item]]
   organization = "Maputo, Mozambique"
@@ -68,4 +78,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = ""
 
+[[item]]
+  organization = "Teaching Assistant"
+  organization_url = ""
+  title = "Introduction to Sociology"
+  url = ""
+  certificate_url = ""
+  date_start = "2018-08-25"
+  date_end = "2018-12-12"
+  description = "Graduate Teaching Assistant for Introduction to Sociology taught by Dr. Eric Schoon"
 +++
