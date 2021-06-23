@@ -46,8 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-01-11"
   date_end = "2021-04-23"
-  description = """[Syllabus](/teaching/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf)
-  SEIs"""
+  description = "[Syllabus](/teaching/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf) & [SEIs](Intro_Spr2021)"
 
 [[item]]
   organization = "Drake Institute for Teaching and Learning"
