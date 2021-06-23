@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2021-06-06"
-  date_end = "2022-05-05"
+  date_end = ""
   description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee to develop graduate student training for instructors. "
 
 [[item]]
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2021-01-11"
-  date_end = "2021-04-23"
+  date_end = ""
   description = "[Syllabus](/Teaching/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf)"
 
 [[item]]
@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-10-26"
-  date_end = "2021-08-31"
+  date_end = ""
   description = "Trained six undergraduates students in Python and R to gather data off the internet and analyze those data using statistical techniques. Our team also developed software and publications."
 
 [[item]]
