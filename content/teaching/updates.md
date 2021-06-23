@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "Department of Sociology"
+  organization_url = ""
+  title = "Graduate Liason for the Instructional Development Committee"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-06-11"
+  date_end = ""
+  description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee to develop graduate student training for instructors."
+
+[[item]]
   organization = "Instructor"
   organization_url = ""
   title = "Intro to Sociology"
