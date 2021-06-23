@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Graduate Liason for the Instructional Development Committee"
   url = ""
   certificate_url = ""
-  date_start = "2021-06-06"
+  date_start = ""
   date_end = ""
   description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee to develop graduate student training for instructors. "
 
