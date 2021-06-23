@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2021-06-11"
-  date_end = ""
+  date_end = "2022-05-11"
   description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee to develop graduate student training for instructors."
 
 [[item]]
