@@ -101,7 +101,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Study Replication"
   organization_url = "https://www.cos.io/score"
-  title = "Study Replication for SCORE Project (Center for Open Science"
+  title = "Study Replication for SCORE Project (Center for Open Science)"
   url = ""
   certificate_url = ""
   date_start = "2020-09-11"
