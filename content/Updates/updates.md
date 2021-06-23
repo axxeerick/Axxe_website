@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Updates"
+title = "Research"
 subtitle = ""
 
 # Date format
@@ -67,16 +67,6 @@ date_format = "Jan 2006"
   date_start = "2021-04-01"
   date_end = "2021-04-05"
   description = "[Link to Unpublished Piece](/updates/presentations/CRT_ArkDemGaz_Axxe_20210405.pdf)"
-
-[[item]]
-  organization = "Instructor"
-  organization_url = ""
-  title = "Intro to Sociology"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-01-11"
-  date_end = "2021-04-23"
-  description = "[Syllabus](/updates/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf)"
 
 [[item]]
   organization = "Virtual Poster Presentation"
@@ -157,16 +147,6 @@ date_format = "Jan 2006"
   date_start = "2020-04-01"
   date_end = ""
   description = "[Behind the Cyber Curtain: Discrimination Within Airbnb's Open-Rating System](/updates/presentations/Presentation_socPIE_AxxeChoi_20200410.pdf)"
-
-[[item]]
-  organization = "Maputo, Mozambique"
-  organization_url = ""
-  title = "FAMELO Interviewer Training"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-10-26"
-  date_end = ""
-  description = ""
 
 [[item]]
   organization = "Phoenix, Arizona"
