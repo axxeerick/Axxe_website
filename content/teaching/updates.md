@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Teaching"
-subtitle = ""
+subtitle = "Teaching positions, syllabi, SEIs, and trainings"
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
