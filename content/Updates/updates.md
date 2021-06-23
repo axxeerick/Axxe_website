@@ -102,11 +102,11 @@ date_format = "Jan 2006"
   organization = "Study Replication"
   organization_url = "https://www.cos.io/score"
   title = "Study Replication for SCORE Project (Center for Open Science"
-  url = "https://osf.io/7qnrs/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e"
+  url = ""
   certificate_url = ""
   date_start = "2020-09-11"
   date_end = ""
-  description = "Replicated O'Brien and Noy's 2015 ASR Article on American Perspectives of Religion and Science"
+  description = "[Replicated O'Brien and Noy's 2015 ASR Article on American Perspectives of Religion and Science](https://osf.io/7qnrs/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e)"
 
 [[item]]
   organization = "Virtual Presentation"
