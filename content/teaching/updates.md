@@ -65,7 +65,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2020-10-26"
-  date_end = ""
+  date_end = "2021-08-25"
   description = "Trained six undergraduates students in Python and R to gather data off the internet and analyze those data using statistical techniques. Our team also developed software and publications."
 
 [[item]]
