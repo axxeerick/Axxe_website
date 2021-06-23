@@ -19,56 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Virtual Presentation"
-  organization_url = ""
-  title = "2021 Population Association of America Annual Meeting -- Poster Award Winner"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-05-06"
-  date_end = ""
-  description = "[Race and Gender Disparities in Academic Pay](/teaching/presentations/PAA2021_poster.pdf)"
-
-[[item]]
-  organization = "Virtual Presentation"
-  organization_url = ""
-  title = "2021 Population Association of America Annual Meeting"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-05-06"
-  date_end = ""
-  description = "[Family Migration Context And Youth's Marriage Choice In Settings With Changing Marriage Systems](/teaching/presentations/PAA2021_Axxe_20210503.pdf)"
-
-[[item]]
-  organization = "Virtual Presentation"
-  organization_url = ""
-  title = "2021 Southern Southern Sociological Society Annual Meeting"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-04-09"
-  date_end = ""
-  description = "[Race and Gender Disparities in Academic Pay](/teaching/presentations/AcademicInequality_SSS_20210408.pdf)"
-
-[[item]]
-  organization = "Virtual Presentation"
-  organization_url = ""
-  title = "Ohio State's 2021 Hayes Research Forum"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-04-09"
-  date_end = ""
-  description = "[Race and Gender Disparities in Academic Pay](/teaching/presentations/AcademicInequality_Hayes_20210408.pdf)"
-
-[[item]]
-  organization = "Author"
-  organization_url = ""
-  title = "Op-Ed submitted to the Arkansas Democrat-Gazette"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-04-01"
-  date_end = "2021-04-05"
-  description = "[Link to Unpublished Piece](/teaching/presentations/CRT_ArkDemGaz_Axxe_20210405.pdf)"
-
-[[item]]
   organization = "Instructor"
   organization_url = ""
   title = "Intro to Sociology"
@@ -79,122 +29,12 @@ date_format = "Jan 2006"
   description = "[Syllabus](/teaching/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf)"
 
 [[item]]
-  organization = "Virtual Poster Presentation"
-  organization_url = ""
-  title = "5th International NEPS Conference"
-  url = "https://www.neps-data.de/neps-conference2020"
-  certificate_url = ""
-  date_start = "2020-12-07"
-  date_end = ""
-  description = "[Equalizing Opportunity by Stratifying Education? Intergenerational Mobility Across Education Types](/teaching/presentations/NEPS_Axxe_20201204.pdf)"
-
-[[item]]
-  organization = "Virtual Presentation"
-  organization_url = ""
-  title = "The 2020 Arkansas Sociological and Anthropological Association Meeting"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-11-06"
-  date_end = ""
-  description = "[Race and Gender Disparities in Academic Pay](/teaching/presentations/ArkConf_AxxeChoi_20201105.pdf)"
-
-[[item]]
-  organization = "Study Replication"
-  organization_url = "https://www.cos.io/score"
-  title = "Study Replication for SCORE Project (Center for Open Science)"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-09-11"
-  date_end = ""
-  description = "[Replicated O'Brien and Noy's 2015 ASR Article on American Perspectives of Religion and Science](https://osf.io/7qnrs/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e)"
-
-[[item]]
-  organization = "Virtual Presentation"
-  organization_url = ""
-  title = "ASA 2020"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-08-01"
-  date_end = ""
-  description = "[An Exploration of Subjective Ages of Adulthood in Mexico, Mozambique, and Nepal](/teaching/presentations/SubjAdult_ASA2020_Axxe_20200804.pdf)"
-
-[[item]]
-  organization = "Virtual Presentation"
-  organization_url = ""
-  title = "ASA 2020"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-08-01"
-  date_end = ""
-  description = "[Behind the Cyber Curtain: Discrimination within Airbnb’s Open-Rating System](/teaching/presentations/ASA2020_AXXE_CHOI_Final.pdf)"
-
-[[item]]
-  organization = "Cancelled Due to COVID-19"
-  organization_url = ""
-  title = "PAA 2019"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = "A Flaw of the Open-Rating System: Discrimination within AirBnb’s User-Based Ratings"
-
-[[item]]
-  organization = "Cancelled Due to COVID-19"
-  organization_url = ""
-  title = "PAA 2019"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = "An Exploration of Subjective Adulthood in Mexico, Mozambique, and Nepal"
-
-[[item]]
-  organization = "Virtual Presentation"
-  organization_url = ""
-  title = "socPIE"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-04-01"
-  date_end = ""
-  description = "[Behind the Cyber Curtain: Discrimination Within Airbnb's Open-Rating System](/teaching/presentations/Presentation_socPIE_AxxeChoi_20200410.pdf)"
-
-[[item]]
   organization = "Maputo, Mozambique"
   organization_url = ""
   title = "FAMELO Interviewer Training"
   url = ""
   certificate_url = ""
   date_start = "2019-10-26"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Phoenix, Arizona"
-  organization_url = ""
-  title = "FAMELO Team Workshop"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-05-05"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Austin, Texas"
-  organization_url = ""
-  title = "PAA 2019"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-04-01"
-  date_end = ""
-  description = ""
-
-[[item]]
-  organization = "Berkley, California"
-  organization_url = ""
-  title = "Annual Workshop on Formal Demography"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-06-01"
   date_end = ""
   description = ""
 
