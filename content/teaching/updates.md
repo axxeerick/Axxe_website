@@ -49,6 +49,16 @@ date_format = "Jan 2006"
   description = "[Syllabus](/teaching/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf)"
 
 [[item]]
+  organization = "Drake Institute for Teaching and Learning"
+  organization_url = ""
+  title = "Online Teaching Endorsement"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-02-25"
+  date_end = ""
+  description = "[Completed workshops and assignments on effective online teaching practices.](/Teaching/presentations/OnlineTeaching.pdf)"
+
+[[item]]
   organization = "Maputo, Mozambique"
   organization_url = ""
   title = "FAMELO Interviewer Training"
