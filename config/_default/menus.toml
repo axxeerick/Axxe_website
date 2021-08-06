@@ -27,7 +27,7 @@
   [[main]]
     name = "Presentations"
     url = "updates/updates1/"
-    identifier = "projects"
+    parent = "projects"
     weight = 1
 
   [[main]]
