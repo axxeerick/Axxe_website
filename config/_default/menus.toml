@@ -21,7 +21,14 @@
   [[main]]
     name = "Research"
     url = "updates/"
+    identifier = "projects"
     weight = 25
+
+  [[main]]
+    name = "Presentations"
+    url = "updates/updates1/"
+    identifier = "projects"
+    weight = 1
 
   [[main]]
     name = "Teaching"
