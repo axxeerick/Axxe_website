@@ -20,20 +20,20 @@
 
   [[main]]
     name = "Research"
-    url = "updates/"
+    url = "Updates/"
     identifier = "projects"
     weight = 25
 
   [[main]]
     name = "Presentations"
-    url = "updates/presentations/"
+    url = "presentations/"
     identifier = "present"
     parent = "projects"
     weight = 1
 
   [[main]]
     name = "Trainings"
-    url = "updates/trainings/"
+    url = "Updates/trainings/"
     identifier = "train"
     parent = "projects"
     weight = 2
