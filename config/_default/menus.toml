@@ -32,11 +32,20 @@
     weight = 1
 
   [[main]]
-    name = "Trainings"
-    url = "Updates/trainings/"
-    identifier = "train"
+    name = "Authored Works"
+    url = "author/"
+    identifier = "author"
     parent = "projects"
     weight = 2
+
+  [[main]]
+    name = "Trainings"
+    url = "trainings/"
+    identifier = "train"
+    parent = "projects"
+    weight = 3
+
+
 
   # how to make a drop down menu: https://stackoverflow.com/questions/63728627/hugo-based-website-with-widget-menus-also-being-dropdown-menus
   # https://github.com/valentinaandrade/movid-site/blob/master/config/_default/menus.toml
