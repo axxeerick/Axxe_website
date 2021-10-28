@@ -31,6 +31,13 @@
     parent = "projects"
     weight = 1
 
+  [[main]]
+    name = "Trainings"
+    url = "updates/trainings/"
+    identifier = "train"
+    parent = "projects"
+    weight = 2
+
   # how to make a drop down menu: https://stackoverflow.com/questions/63728627/hugo-based-website-with-widget-menus-also-being-dropdown-menus
   # https://github.com/valentinaandrade/movid-site/blob/master/config/_default/menus.toml
   # https://github.com/valentinaandrade/movid-site/blob/master/content/informe/participante/informe01.md
