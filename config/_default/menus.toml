@@ -26,7 +26,7 @@
 
   [[main]]
     name = "Presentations"
-    url = "updates/Presentations/"
+    url = "updates/presentations/"
     identifier = "present"
     parent = "projects"
     weight = 1
