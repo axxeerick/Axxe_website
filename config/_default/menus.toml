@@ -75,6 +75,12 @@
     parent = "teach"
     weight = 2
 
+  [[main]]
+    name = "Awards & Service"
+    url = "teach_award/"
+    identifier = "teach_award"
+    parent = "teach"
+    weight = 3
 
 
 
