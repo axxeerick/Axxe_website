@@ -19,24 +19,24 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Data Carpentry Workshop"
+  organization = "Ohio State's TDAI"
   organization_url = ""
-  title = "Ohio State's TDAI"
+  title = "Data Carpentry Workshop"
   url = "https://tdai.osu.edu/education/osu-carpentries"
   certificate_url = ""
   date_start = "2021-05-05"
   date_end = ""
-  description = ""
+  description = "Workshop covering Python and OpenRefine"
 
 [[item]]
-  organization = "Computational Text Analysis Group"
+  organization = "Ohio State's Department of Sociology"
   organization_url = ""
-  title = "Ohio State's Department of Sociology"
+  title = "Computational Text Analysis Group"
   url = ""
   certificate_url = ""
   date_start = "2020-05-05"
   date_end = ""
-  description = ""
+  description = "Peer-coordinated methods training on computational text analysis: Natural Language Processing, Topic Modeling, among others"
 
 [[item]]
   organization = "Phoenix, Arizona"
