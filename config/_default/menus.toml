@@ -63,11 +63,19 @@
     weight = 26
 
   [[main]]
+    name = "Experience"
+    url = "class/"
+    identifier = "class"
+    parent = "teach"
+
+  [[main]]
     name = "Certifications"
     url = "certify/"
     identifier = "certify"
     parent = "teach"
-    weight = 1
+    weight = 2
+
+
 
 
 
