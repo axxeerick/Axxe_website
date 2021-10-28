@@ -18,6 +18,25 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+[[item]]
+  organization = "Data Carpentry Workshop"
+  organization_url = ""
+  title = "Ohio State's TDAI"
+  url = "https://tdai.osu.edu/education/osu-carpentries"
+  certificate_url = ""
+  date_start = "2021-05-05"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Computational Text Analysis Group"
+  organization_url = ""
+  title = "Ohio State's Department of Sociology"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-05-05"
+  date_end = ""
+  description = ""
 
 [[item]]
   organization = "Phoenix, Arizona"

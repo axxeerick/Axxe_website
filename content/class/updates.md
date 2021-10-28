@@ -59,9 +59,9 @@ date_format = "Jan 2006"
   description = ""
 
 [[item]]
-  organization = "Project Manager, Computational Social Science Research Program"
+  organization = "Project Manager, The Ohio State University"
   organization_url = ""
-  title = "Undergraduate Research Training"
+  title = "Computational Social Science Research Program"
   url = ""
   certificate_url = ""
   date_start = "2020-01-26"
@@ -69,9 +69,9 @@ date_format = "Jan 2006"
   description = "Trained six undergraduates students in Python and R to gather data off the internet and analyze those data using statistical techniques. Our team also developed software and publications."
 
 [[item]]
-  organization = "FAMELO Interviewer Trainer, CEPSA"
+  organization = "CEPSA, Maputo, Mozambique"
   organization_url = "https://cepsamoz.org/"
-  title = "Maputo, Mozambique"
+  title = "FAMELO Interviewer Trainer, CEPSA"
   url = ""
   certificate_url = ""
   date_start = "2019-10-26"
