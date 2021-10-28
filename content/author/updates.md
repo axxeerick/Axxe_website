@@ -39,5 +39,14 @@ date_format = "Jan 2006"
   date_end = ""
   description = "[Replicated O'Brien and Noy's 2015 ASR Article on American Perspectives of Religion and Science](https://osf.io/7qnrs/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e)"
 
+[[item]]
+  organization = "Master's Thesis"
+  organization_url = "https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=osu157314064489569"
+  title = "Equalizing Opportunity by Stratifying Education? Intergenerational Mobility in Germany across Institution Types"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-09-11"
+  date_end = ""
+  description = ""
 
 +++
