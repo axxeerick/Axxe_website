@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Introduction to Sociology"
   url = ""
   certificate_url = ""
-  date_start = "2021-08-24"
-  date_end = "2021-12-10"
+  date_start = ""
+  date_end = ""
   description = "[Syllabus](/class/presentations/IntroToSoc_Fall2021_Syllabus_Axxe_Updated.pdf)"
 
 [[item]]
@@ -34,8 +34,8 @@ date_format = "Jan 2006"
   title = "Racial and Ethnic Relations in the United States"
   url = ""
   certificate_url = ""
-  date_start = "2021-08-24"
-  date_end = "2022-05-07"
+  date_start = ""
+  date_end = ""
   description = "[Fall 2021 Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf)"
 
 [[item]]
