@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2021-08-24"
-  date_end = "2021-12-10"
-  description = "[Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf)"
+  date_end = "2021-05-07"
+  description = "[Fall 2021 Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf) [Spring 2022 Syllabus](/teaching/presentations/RaceEthn_Spring2022_Axxe_20220106.pdf)"
 
 [[item]]
   organization = "Online Instructor, The Ohio State University"
@@ -61,12 +61,12 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Project Manager, The Ohio State University"
   organization_url = ""
-  title = "Computational Social Science Research Program"
+  title = "Digital Inequality Lab"
   url = ""
   certificate_url = ""
   date_start = "2020-01-26"
-  date_end = "2021-08-25"
-  description = "Trained six undergraduates students in Python and R to gather data off the internet and analyze those data using statistical techniques. Our team also developed software and publications."
+  date_end = "2021-11-25"
+  description = "Trained six undergraduates students in Python and R to gather data off the internet and analyze those data using statistical techniques. Our team developed [software](https://github.com/mlraglin/DCiFR) and publications."
 
 [[item]]
   organization = "CEPSA, Maputo, Mozambique"
