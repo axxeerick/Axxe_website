@@ -25,6 +25,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2021-08-24"
+  date_end = "2021-05-07"
+  description = "[Fall 2021 Syllabus, Ohio State](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf) [Spring 2022 Syllabus, Ohio State](/teaching/presentations/RaceEthn_Spring2022_Axxe_20220106.pdf)"
+
+[[item]]
+  organization = "Instructor"
+  organization_url = ""
+  title = "Racial and Ethnic Relations in the United States"
+  url = ""
+  certificate_url = ""
+  date_start = ""
   date_end = "2021-12-10"
   description = "[Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf)"
 
