@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-08-24"
   date_end = "2022-05-10"
-  description = "[Fall 2021 Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf) & [SEIs](/teaching/presentations/RaceEthnicity_Fall2021_Overview.pdf)"
+  description = "Fall 2021: [Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf) & [SEIs](/teaching/presentations/RaceEthnicity_Fall2021_Overview.pdf)<br> Spring 2022: "
 
 [[item]]
   organization = "Department of Sociology"
