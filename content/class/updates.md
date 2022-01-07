@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-08-24"
   date_end = "2021-12-10"
-  description = "[Syllabus](/class/presentations/IntroToSoc_Fall2021_Syllabus_Axxe_Updated.pdf)"
+  description = "[Syllabus](/class/presentations/IntroToSoc_Fall2021_Syllabus_Axxe_Updated.pdf) & [SEIs](/teaching/presentations/Intro_Fall2021_Detailed.pdf)"
 
 [[item]]
   organization = "Online Instructor, The Ohio State University"
