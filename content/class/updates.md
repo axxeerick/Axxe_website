@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2021-08-24"
-  date_end = "2021-12-10"
+  date_end = "2022-05-10"
   description = "[Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf)"
 
 [[item]]
