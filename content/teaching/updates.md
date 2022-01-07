@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2021-08-24"
-  date_end = "2021-05-07"
+  date_end = "2022-05-07"
   description = "[Fall 2021 Syllabus, Ohio State](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf) [Spring 2022 Syllabus, Ohio State](/teaching/presentations/RaceEthn_Spring2022_Axxe_20220106.pdf)"
 
 [[item]]
