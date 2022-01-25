@@ -69,6 +69,6 @@ user_groups:
 
 # Extra info: I am a graduate affiliate in the [Department of Sociology](https://sociology.osu.edu/), the [Institute for Population Research](https://ipr.osu.edu/), and the [Translational Data Analytics Institute](https://tdai.osu.edu/) at The Ohio State University.
 ---
-I am a research affiliate with the [Family Migration and Early Life Outcomes (FAMELO)](https://famelo.netlify.com/) project and the [Higher Education Inequality Project (HEIP)](https://cssl.osu.edu/research-projects/first-generation-student-study). I am also a co-founder of and project manager for the Computational Social Science research program at the Ohio State University. 
+I am a research affiliate with the [Family Migration and Early Life Outcomes (FAMELO)](https://famelo.netlify.com/) project and the [Higher Education Inequality Project (HEIP)](https://cssl.osu.edu/research-projects/first-generation-student-study). I am also a co-founder of and project manager for the Digital Inequality Research Program at the Ohio State University. 
 
 I currently have two veins of research. The first lies in the realm of Computational Social Science, in which I analyze novel web-based data sources to test for racial and gender inequality. The second investigates how institutions shape identity during the transition to adulthood. My work involves a wide range of data sources: surveys, qualitative interviews, and data scraped from the internet. I am also interested in how social phenomena, such as migration, offers insight into the structure and maintenance of status inequalities. 
