@@ -32,12 +32,11 @@ date_format = "Jan 2006"
   organization = "Erick Axxe"
   organization_url = ""
   title = "A Replication of O'Brien and Noy (2015)"
-  url = ""
+  url = "https://osf.io/h7jfv/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e"
   certificate_url = ""
   date_start = "2020-09-11"
   date_end = ""
-  description = "Study Replication for [SCORE Project (Center for Open Science)](https://www.cos.io/score) 
-  [Replicated O'Brien and Noy's 2015 ASR Article on American Perspectives of Religion and Science](https://osf.io/h7jfv/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e)"
+  description = "Study Replication for [SCORE Project (Center for Open Science)](https://www.cos.io/score)"
 
 [[item]]
   organization = "Master's Thesis"
