@@ -39,14 +39,14 @@ date_format = "Jan 2006"
   description = "Study Replication for [SCORE Project (Center for Open Science)](https://www.cos.io/score)"
 
 [[item]]
-  organization = "Master's Thesis"
-  organization_url = "https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=osu157314064489569"
+  organization = "Erick Axxe"
+  organization_url = ""
   title = "Equalizing Opportunity by Stratifying Education? Intergenerational Mobility in Germany across Institution Types"
-  url = ""
+  url = "https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=osu157314064489569"
   certificate_url = ""
   date_start = "2019-09-11"
   date_end = ""
-  description = ""
+  description = "This study analyzes class origins, social mobility and educational and occupational trajectories among Germans citizens using the National Educational Panel Study adult cohort survey (N=9,099). Relative to one’s origins, and using ordinal logistic modeling techniques, I first analyze the educational pathways that individuals of distinct social background tend to follow. Social origins matter, and significantly, for if and where one graduates, with respondents of the highest social origins graduating from the university and individuals of the lowest social origins attending the least prestigious education options. Secondly, my analyses interrogate the labor market implications of these patterns, focusing specifically on respondents’ eventual occupational status and income levels. Generally, social mobility relative to one’s parents only appears to occur for individuals with mid-tertiary degrees, but not for degrees of higher or lower prestige. This U-shaped relationship between social origins, education, and occupational destinations, recently seen in research from France and the United States, likewise appears to be prevalent in Germany despite unique economic and education structures. The bulk of my results point to some reproduction of existing inequalities within higher education and an important interaction between origins, career development and occupational trajectories that should be of interest to researchers and policymakers alike."
 
 [[item]]
   organization = "Reanne Frank, Erick Axxe, Coralia Balasca, and Melissa Rodriguez"
