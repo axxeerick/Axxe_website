@@ -29,16 +29,6 @@ date_format = "Jan 2006"
   description = "Subjective adulthood, or feeling like an adult, captures identity development relative to the local context that shapes life course processes. Most research on this topic is conducted in wealthy developed countries. Instead, we draw on household-based survey data from the Family Migration and Early Life Outcomes project (FAMELO) to estimate ordinal logistic regression models predicting how often adolescents aged 11–17 in Jalisco, Mexico (n=1,567); Gaza Province, Mozambique (n=1,368); and the Chitwan Valley, Nepal (n=1,898), identify as adults. The relationships between adult roles, family capital, youth characteristics, and youth’s adult identities vary substantially across the sites. The findings highlight how the transition to adulthood reflects the cultural and structural conditions of adult identities."
 
 [[item]]
-  organization = "Author"
-  organization_url = ""
-  title = "Op-Ed submitted to the Arkansas Democrat-Gazette"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-04-01"
-  date_end = ""
-  description = "[Link to Unpublished Piece](/updates/presentations/CRT_ArkDemGaz_Axxe_20210405.pdf)"
-
-[[item]]
   organization = "Study Replication"
   organization_url = "https://www.cos.io/score"
   title = "Study Replication for SCORE Project (Center for Open Science)"
@@ -55,6 +45,16 @@ date_format = "Jan 2006"
   url = ""
   certificate_url = ""
   date_start = "2019-09-11"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Reanne Frank, Erick Axxe, Coralia Balasca, and Melissa Rodriguez"
+  organization_url = ""
+  title = "Advancing the Field of Immigration and Health"
+  url = "https://doi.org/10.1108/S1057-629020190000019001"
+  certificate_url = ""
+  date_start = "2019-01-25"
   date_end = ""
   description = ""
 
