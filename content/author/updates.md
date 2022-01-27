@@ -29,14 +29,15 @@ date_format = "Jan 2006"
   description = "Subjective adulthood, or feeling like an adult, captures identity development relative to the local context that shapes life course processes. Most research on this topic is conducted in wealthy developed countries. Instead, we draw on household-based survey data from the Family Migration and Early Life Outcomes project (FAMELO) to estimate ordinal logistic regression models predicting how often adolescents aged 11–17 in Jalisco, Mexico (n=1,567); Gaza Province, Mozambique (n=1,368); and the Chitwan Valley, Nepal (n=1,898), identify as adults. The relationships between adult roles, family capital, youth characteristics, and youth’s adult identities vary substantially across the sites. The findings highlight how the transition to adulthood reflects the cultural and structural conditions of adult identities."
 
 [[item]]
-  organization = "Study Replication"
-  organization_url = "https://www.cos.io/score"
-  title = "Study Replication for SCORE Project (Center for Open Science)"
+  organization = "Erick Axxe"
+  organization_url = ""
+  title = "A Replication of O'Brien and Noy (2015)"
   url = ""
   certificate_url = ""
   date_start = "2020-09-11"
   date_end = ""
-  description = "[Replicated O'Brien and Noy's 2015 ASR Article on American Perspectives of Religion and Science](https://osf.io/7qnrs/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e)"
+  description = "Study Replication for [SCORE Project (Center for Open Science)](https://www.cos.io/score) 
+  [Replicated O'Brien and Noy's 2015 ASR Article on American Perspectives of Religion and Science](https://osf.io/h7jfv/?view_only=aa04eb52de9d4c599b6fcf19a5d0b69e)"
 
 [[item]]
   organization = "Master's Thesis"
