@@ -29,14 +29,14 @@
     url = "presentations/"
     identifier = "present"
     parent = "projects"
-    weight = 1
+    weight = 2
 
   [[main]]
     name = "Authored Works"
     url = "author/"
     identifier = "author"
     parent = "projects"
-    weight = 2
+    weight = 1
 
   [[main]]
     name = "Trainings"
@@ -67,6 +67,7 @@
     url = "class/"
     identifier = "class"
     parent = "teach"
+    weight = 1
 
   [[main]]
     name = "Certifications"
