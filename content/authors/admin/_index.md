@@ -49,9 +49,9 @@ social:
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Erick_Axxe
-- icon: github
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/axxeerick
+  link: https://www.linkedin.com/in/erick-axxe-aa39035b
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 #- icon: cv
