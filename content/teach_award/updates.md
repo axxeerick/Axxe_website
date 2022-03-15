@@ -19,6 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "The Graduate School at Ohio State"
+  organization_url = ""
+  title = "2022 Graduate Associate Teaching Award"
+  url = "https://gradsch.osu.edu/news/2022-graduate-associate-teaching-award-recipients"
+  certificate_url = ""
+  date_start = "2021-03-14"
+  date_end = ""
+  description = "The Graduate Association Teaching Award is Ohio State's highest recognition of the exceptional teaching provided by graduate students serving as Graduate Teaching Associates."
+
+[[item]]
   organization = "Department of Sociology"
   organization_url = ""
   title = "Graduate Representative for the Instructional Development Committee"
