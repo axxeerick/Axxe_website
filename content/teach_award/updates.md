@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "The Graduate School at Ohio State"
   organization_url = ""
-  title = "2022 Graduate Associate Teaching Award"
+  title = "Graduate Associate Teaching Award"
   url = "https://gradsch.osu.edu/news/2022-graduate-associate-teaching-award-recipients"
   certificate_url = ""
   date_start = "2022-03-14"
