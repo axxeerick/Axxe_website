@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   description = "The Graduate Associate Teaching Award is Ohio State's highest recognition of the exceptional teaching provided by graduate students serving as Graduate Teaching Associates."
 
 [[item]]
-  organization = "Department of Sociology"
+  organization = "Department of Sociology, Ohio State"
   organization_url = ""
   title = "Graduate Representative for the Instructional Development Committee"
   url = ""
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee and develop graduate student training for instructors."
 
 [[item]]
-  organization = "Teaching Award"
+  organization = "Department of Sociology, Ohio State"
   organization_url = ""
   title = "Outstanding Independent Instructor"
   url = ""
