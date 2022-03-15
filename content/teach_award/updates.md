@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "2022 Graduate Associate Teaching Award"
   url = "https://gradsch.osu.edu/news/2022-graduate-associate-teaching-award-recipients"
   certificate_url = ""
-  date_start = "2021-03-14"
+  date_start = "2022-03-14"
   date_end = ""
   description = "The Graduate Association Teaching Award is Ohio State's highest recognition of the exceptional teaching provided by graduate students serving as Graduate Teaching Associates."
 
