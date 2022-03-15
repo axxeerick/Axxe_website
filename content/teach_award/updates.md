@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-03-14"
   date_end = ""
-  description = "The Graduate Association Teaching Award is Ohio State's highest recognition of the exceptional teaching provided by graduate students serving as Graduate Teaching Associates."
+  description = "The Graduate Associate Teaching Award is Ohio State's highest recognition of the exceptional teaching provided by graduate students serving as Graduate Teaching Associates."
 
 [[item]]
   organization = "Department of Sociology"
