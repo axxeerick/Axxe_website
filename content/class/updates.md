@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-08-24"
   date_end = "2022-05-10"
-  description = "Fall 2021: [Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf) & [SEIs](/teaching/presentations/RaceEthnicity_Fall2021_Overview.pdf)<br> Spring 2022: [Syllabus](/teaching/presentations/RaceEthn_Spring2022_Axxe_20220106.pdf)"
+  description = "Fall 2021: [Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf) & [SEIs](/teaching/presentations/RaceEthnicity_Fall2021_Overview.pdf)<br> Spring 2022: [Syllabus](/teaching/presentations/RaceEthn_Spring2022_Axxe_20220318.pdf)"
 
 [[item]]
   organization = "Online Instructor, The Ohio State University"
