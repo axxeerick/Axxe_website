@@ -24,7 +24,7 @@ interests:
 - Stratification
 - Life Course Studies
 - Computational Social Science
-- Culture
+- Mental Health
 
 education:
   courses:
@@ -69,3 +69,6 @@ user_groups:
 I am a research affiliate with the [Family Migration and Early Life Outcomes (FAMELO)](https://famelo.netlify.com/) project and the [Higher Education Inequality Project (HEIP)](https://cssl.osu.edu/research-projects/first-generation-student-study). I am also a co-founder and project manager of the Digital Inequality Research Program at the Ohio State University. 
 
 I currently have two veins of research. The first lies in the realm of Computational Social Science; I analyze novel web-based data sources to test for racial and gender inequality. The second investigates how institutions shape identity during the transition to adulthood. My work involves a wide range of data sources: surveys, qualitative interviews, and data scraped from the internet. 
+
+I am the recipient of the Outstanding Independent Instructor Award awarded by Ohio State's Department of Sociology, as well as Ohio State's Graduate Associate Teaching Award -- the university's highest recognition for Graduate Teaching Associates.
+
