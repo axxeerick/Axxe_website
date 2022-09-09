@@ -18,25 +18,25 @@ organizations:
   url: "https://sociology.osu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a graduate student in Ohio State's Sociology department and am affiliated with the Institute for Population Research. 
+#bio: I am a graduate student in Ohio State's Sociology department and am affiliated with the Institute for Population Research. 
 
-interests:
-- Stratification
-- Life Course Studies
-- Computational Social Science
-- Mental Health
+#interests:
+#- Stratification
+#- Life Course Studies
+#- Computational Social Science
+#- Mental Health
 
-education:
-  courses:
-  - course: MA in Sociology
-    institution: The Ohio State University
-    year: 2019
-  - course: BA in Sociology
-    institution: University of Arkansas
-    year: 2015
-  - course: BA in German
-    institution: University of Arkansas
-    year: 2015
+#education:
+#  courses:
+#  - course: MA in Sociology
+#    institution: The Ohio State University
+#    year: 2019
+#  - course: BA in Sociology
+#    institution: University of Arkansas
+#    year: 2015
+#  - course: BA in German
+#    institution: University of Arkansas
+#    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -66,9 +66,9 @@ user_groups:
 
 # Extra info: I am a graduate affiliate in the [Department of Sociology](https://sociology.osu.edu/), the [Institute for Population Research](https://ipr.osu.edu/), and the [Translational Data Analytics Institute](https://tdai.osu.edu/) at The Ohio State University.
 ---
-I am a research affiliate with the [Family Migration and Early Life Outcomes (FAMELO)](https://famelo.netlify.com/) project and the [Higher Education Inequality Project (HEIP)](https://cssl.osu.edu/research-projects/first-generation-student-study). I am also a co-founder and project manager of the Digital Inequality Research Program at the Ohio State University. 
+I am a research affiliate with the [Family Migration and Early Life Outcomes (FAMELO)](https://famelo.netlify.com/) project and the [First-Generation Student Study](https://cssl.osu.edu/research-projects/first-generation-student-study). I am also a co-founder and project manager of the Digital Inequality Research Program at the Ohio State University. 
 
-I currently have two veins of research. The first lies in the realm of Computational Social Science; I analyze novel web-based data sources to test for racial and gender inequality. The second investigates how institutions shape identity during the transition to adulthood. My work involves a wide range of data sources: surveys, qualitative interviews, and data scraped from the internet. 
+I currently have two veins of research. The first investigates how institutions shape identity during the transition to adulthood. The second lies in the realm of Computational Social Science; I analyze novel web-based data sources to test for racial and gender inequality. My work involves a wide range of data sources: surveys, qualitative interviews, and data scraped from the internet. 
 
 I am also committed to high-quality instruction. I am certified in Inclusive and Online Teaching by Ohio State's Drake Institute for Teaching and Learning. My commitment to teaching has been recognized across Ohio State: I am the 2021 recipient of the Department of Sociology's Outstanding Independent Instructor Award, as well as a 2022 recipient of Ohio State's Graduate Associate Teaching Award -- the university's highest recognition for Graduate Teaching Associates.
 
