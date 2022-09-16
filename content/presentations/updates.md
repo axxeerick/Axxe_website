@@ -26,8 +26,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-05-06"
   date_end = ""
-  description = """:
-
+  description = """
   * [Academics Analytics Research Center](https://youtu.be/4jjbHm9wnSs)
   * [2021 Population Association of America Annual Meeting - Poster Award Winner](/updates/presentations/PAA2021_poster.pdf)
   * [2021 Southern Southern Sociological Society Annual Meeting](/updates/presentations/AcademicInequality_SSS_20210408.pdf)
@@ -42,7 +41,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-05-06"
   date_end = ""
-  description = """: 
+  description = """
 
   * [2021 Population Association of America Annual Meeting](/updates/presentations/PAA2021_Axxe_20210503.pdf)"""
 
@@ -84,6 +83,6 @@ date_format = "Jan 2006"
 
   * 2019 Population Association of America Annual Meeting, cancelled due to covid-19
   * [2020 American Sociological Assocation Annual Meeting](/updates/presentations/ASA2020_AXXE_CHOI_Final.pdf)
-  * [Sociology Power Inequality, and the Economy (socPIE) working group](/updates/presentations/Presentation_socPIE_AxxeChoi_20200410.pdf)"""
+  * [Sociology Power, Inequality, and the Economy (socPIE) working group](/updates/presentations/Presentation_socPIE_AxxeChoi_20200410.pdf)"""
 
 +++
