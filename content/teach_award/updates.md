@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2022-01-01"
   date_end = "2022-05-11"
-  description = "Recognized for my contribution to the North Little Rock School District's mentoring program"
+  description = "Recognized for my contribution to the North Little Rock School District's mentorship program"
 
 [[item]]
   organization = "Department of Sociology, Ohio State"
