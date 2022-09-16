@@ -36,7 +36,9 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2020-09-11"
   date_end = ""
-  description = "Study Replication for [SCORE Project (Center for Open Science)](https://www.cos.io/score)"
+  description = """Study Replication for [SCORE Project (Center for Open Science)](https://www.cos.io/score)
+
+  We test the claim from O’Brien & Noy (2015) that although the post-secular perspective entails high levels of science knowledge as well as favorable views of science and religion, when scientific and religious perspectives conflict (e.g. evolution), the post-secular latent class almost unanimously aligned their views with particular religious accounts. This reflects the following statement from the paper's abstract: \"Overall, most individuals favor either scientific or religious ways of understanding, but many scientifically inclined individuals prefer certain religious accounts.\" Participants’ responses to the General Social Survey (GSS) weresubmitted to a latent class analysis that resulted in a three-class solution characterized as representing traditional, modern, and post-secular perspectives on science and religion. Following this assignment, two-tailed t-tests were used to compare responses between the three groups; for the purposes of the SCORE project, the focal test is the comparison between the Traditional and Post-Secular groups on the question concerning evolution (‘Human beings developed from earlier species of animals’, yes or no). Members of the post-secular category were significantly less likely than members of the traditional group to respond that humans evolved from other animals (3 percent, significant at p < 0.05 on a two-tailed test, see Table 2, rightmost column).We replicate this study using the GSS years not included in the original survey. All variables remain the same. """
 
 [[item]]
   organization = "Erick Axxe"
@@ -56,6 +58,6 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-01-25"
   date_end = ""
-  description = ""
+  description = "In this edited volume, we turn our attention to furthering the evidence-based understanding of a frequently overlooked topic in the discourse on immigration the health of immigrants and their descendants. Health is a critical domain for this purpose for several reasons. Most consequently, a core tenet of medical sociology is that health and illness provide a window into how our social structure operates. A focus on health has the potential to shine a reflective mirror on the underlying social forces that pattern individual lives and how they interact with other domains to shape opportunities and life chances. A focus on immigrant health also has the promise to help move debates and the broader conversation on immigration beyond the politics of division and fear. This is particularly so in the case of health because its patterning cuts against much of the negative rhetoric swirling around immigration. Immigrants have better health, on average, than the native-born (National Academies of Sciences, Engineering, and Medicine, 2015). This pattern “flips the script” from an emphasis on the negative impacts of immigration that dominate so much of the politicized rhetoric to a recognition of better outcomes among immigrants vis-à-vis natives."
 
 +++
