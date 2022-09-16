@@ -26,13 +26,13 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-05-06"
   date_end = ""
-  description = ":
+  description = """:
 
   * [Academics Analytics Research Center](https://youtu.be/4jjbHm9wnSs)
   * [2021 Population Association of America Annual Meeting - Poster Award Winner](/updates/presentations/PAA2021_poster.pdf)
   * [2021 Southern Southern Sociological Society Annual Meeting](/updates/presentations/AcademicInequality_SSS_20210408.pdf)
   * [Ohio State's 2021 Hayes Research Forum](/updates/presentations/AcademicInequality_Hayes_20210408.pdf)
-  * [The 2020 Arkansas Sociological and Anthropological Association Meeting](/updates/presentations/ArkConf_AxxeChoi_20201105.pdf)"
+  * [The 2020 Arkansas Sociological and Anthropological Association Meeting](/updates/presentations/ArkConf_AxxeChoi_20201105.pdf)"""
 
 [[item]]
   organization = "Erick Axxe, Sarah R. Hayford, and Dirgha Ghimire"
