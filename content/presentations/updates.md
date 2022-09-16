@@ -42,9 +42,9 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-05-06"
   date_end = ""
-  description = ": 
+  description = """: 
 
-  * [2021 Population Association of America Annual Meeting](/updates/presentations/PAA2021_Axxe_20210503.pdf)"
+  * [2021 Population Association of America Annual Meeting](/updates/presentations/PAA2021_Axxe_20210503.pdf)"""
 
 
 [[item]]
@@ -55,9 +55,9 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-05-06"
   date_end = ""
-  description = ": 
+  description = """: 
 
-  * [5th International NEPS Conference](/updates/presentations/NEPS_Axxe_20201204.pdf)"
+  * [5th International NEPS Conference](/updates/presentations/NEPS_Axxe_20201204.pdf)"""
 
 [[item]]
   organization = "Erick Axxe and Sarah R. Hayford"
@@ -67,10 +67,10 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-05-06"
   date_end = ""
-  description = ": 
+  description = """: 
 
   * 2019 Population Association of America Annual Meeting, cancelled due to covid-19
-  * [2020 American Sociological Association Annual Meeting](/updates/presentations/SubjAdult_ASA2020_Axxe_20200804.pdf)"
+  * [2020 American Sociological Association Annual Meeting](/updates/presentations/SubjAdult_ASA2020_Axxe_20200804.pdf)"""
 
 [[item]]
   organization = "Eungang Choi and Erick Axxe"
@@ -80,10 +80,10 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2019-05-06"
   date_end = ""
-  description = ": 
+  description = """: 
 
   * 2019 Population Association of America Annual Meeting, cancelled due to covid-19
   * [2020 American Sociological Assocation Annual Meeting](/updates/presentations/ASA2020_AXXE_CHOI_Final.pdf)
-  * [Sociology Power Inequality, and the Economy (socPIE) working group](/updates/presentations/Presentation_socPIE_AxxeChoi_20200410.pdf)"
+  * [Sociology Power Inequality, and the Economy (socPIE) working group](/updates/presentations/Presentation_socPIE_AxxeChoi_20200410.pdf)"""
 
 +++
