@@ -29,6 +29,16 @@ date_format = "Jan 2006"
   description = "The Graduate Associate Teaching Award is Ohio State's highest recognition of the exceptional teaching provided by graduate students serving as Graduate Teaching Associates."
 
 [[item]]
+  organization = "North Little Rock School District"
+  organization_url = ""
+  title = "\"Great Rising\" Mentor Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-01-01"
+  date_end = "2022-05-11"
+  description = "Recognized for my contribution to the North Little Rock School District's mentoring program"
+
+[[item]]
   organization = "Department of Sociology, Ohio State"
   organization_url = ""
   title = "Graduate Representative for the Instructional Development Committee"
@@ -36,7 +46,7 @@ date_format = "Jan 2006"
   certificate_url = ""
   date_start = "2021-06-11"
   date_end = "2022-05-11"
-  description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee and develop graduate student training for instructors."
+  description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee and develop graduate student training for instructors"
 
 [[item]]
   organization = "Department of Sociology, Ohio State"
@@ -48,4 +58,13 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Nominated by students, awarded by Sociology Graduate Student Association"
 
+[[item]]
+  organization = "Rogers Activity Center"
+  organization_url = ""
+  title = "Volunteer of the Year"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-05-05"
+  date_end = ""
+  description = "Recognized for my work as a volunteer soccer coach"
 +++
