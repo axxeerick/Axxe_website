@@ -69,7 +69,7 @@ user_groups:
 
 # Extra info: I am a graduate affiliate in the [Department of Sociology](https://sociology.osu.edu/), the [Institute for Population Research](https://ipr.osu.edu/), and the [Translational Data Analytics Institute](https://tdai.osu.edu/) at The Ohio State University.
 ---
-I am an Assistant Professor of Sociology at Hendrix College, where I study research methods, the transition to adulthood, and inequality. 
+I am an Assistant Professor of Sociology at Hendrix College, where I study stratification during the transition to adulthood. During this period of the life course, young people navigate foundational institutions such as education, the labor market, parenthood, and marriage. By identifying patterns in how young people acclimate to these institutions, my research disentangles the relationship between structure and agency in shaping life trajectories. 
 
 
 
