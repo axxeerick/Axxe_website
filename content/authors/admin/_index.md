@@ -69,9 +69,7 @@ user_groups:
 
 # Extra info: I am a graduate affiliate in the [Department of Sociology](https://sociology.osu.edu/), the [Institute for Population Research](https://ipr.osu.edu/), and the [Translational Data Analytics Institute](https://tdai.osu.edu/) at The Ohio State University.
 ---
-I am a research affiliate with the [Family Migration and Early Life Outcomes (FAMELO)](https://famelo.netlify.com/) project and the [First-Generation Student Study](https://cssl.osu.edu/research-projects/first-generation-student-study). I am also a co-founder and project manager of the Digital Inequality Research Program at the Ohio State University. 
+I am an Assistant Professor of Sociology at Hendrix College, where I study research methods, the transition to adulthood, and inequality. 
 
-I currently have two veins of research. The first investigates how institutions shape identity during the transition to adulthood. The second lies in the realm of Computational Social Science; I analyze novel web-based data sources to test for racial and gender inequality. My work involves a wide range of data sources: surveys, qualitative interviews, and data scraped from the internet. 
 
-I am also committed to high-quality instruction. I am certified in Inclusive and Online Teaching by Ohio State's Drake Institute for Teaching and Learning. My commitment to teaching has been recognized across Ohio State: I am the 2021 recipient of the Department of Sociology's Outstanding Independent Instructor Award, as well as a 2022 recipient of Ohio State's Graduate Associate Teaching Award -- the university's highest recognition for Graduate Teaching Associates.
 
