@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate 
+role: Assistant Professor of Sociology
 
 # Organizations/Affiliations
 organizations:
-- name: The Ohio State University
-  url: "https://sociology.osu.edu/"
+- name: Hendrix College
+  url: "https://www.hendrix.edu/sociology/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: I am a graduate student in Ohio State's Sociology department and am affiliated with the Institute for Population Research. 
@@ -45,7 +45,10 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:axxe.1@osu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:axxe@hendrix.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: cv
+  icon_pack: ai
+  link: https://axxe.netlify.app/files/cv.pdf
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/erick-axxe-aa39035b
