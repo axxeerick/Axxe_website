@@ -1,7 +1,9 @@
 {{ $ := .root }}
 {{ $page := .Page }}
 
-<!-- Accomplishments widget -->
+<!-- Debugging output -->
+{{ printf "Debugging: %v" $page.Params.item }}
+
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
@@ -23,13 +25,13 @@
             {{- .organization | markdownify | emojify }}
             {{- with .organization_url }}</a>{{ end -}}
 
-            {{ if or .date_start .date_end }}
+            {{ if or (and .date_start (not (eq .date_start ""))) .date_end }}
             <span class="middot-divider"></span>
-            {{ if .date_start }}
+            {{ if and .date_start (not (eq .date_start "")) }}
             {{ (time .date_start).Format ($page.Params.date_format | default "Jan 2006") }}
             {{ end }}
             {{ if .date_end }}
-            {{ if .date_start }} – {{ end }}{{ (time .date_end).Format ($page.Params.date_format | default "Jan 2006") }}
+            {{ if and .date_start (not (eq .date_start "")) }} – {{ end }}{{ (time .date_end).Format ($page.Params.date_format | default "Jan 2006") }}
             {{ end }}
             {{ end }}
           </div>
@@ -46,6 +48,8 @@
         </div>
       </div>
     {{ end }}
+    {{ else }}
+    <p>No items to display in accomplishments.</p>
     {{ end }}
   </div>
 </div>
