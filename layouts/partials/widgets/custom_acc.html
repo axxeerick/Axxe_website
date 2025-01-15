@@ -1,33 +1,26 @@
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>{{ with .Page.Title }}{{ . | markdownify }}{{ end }}</h1>
-    {{ printf "Debugging: Params.items = %v" .Page.Params.items }}
-    {{ with .Page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
-  </div>
-</div>
-
-<div class="row">
-  <div class="col-12 col-lg-4 section-heading">
-    <h1>{{ with .Page.Title }}{{ . | markdownify }}{{ end }}</h1>
-    {{ with .Page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+    <h1>{{ .Page.Title | markdownify }}</h1>
+    {{ .Page.Params.subtitle | markdownify }}
   </div>
   <div class="col-12 col-lg-8">
+    {{ printf "Debugging: Params.items = %v" .Page.Params.items }}
     {{ if .Page.Params.items }}
     {{ range $idx, $item := .Page.Params.items }}
       <div class="card experience course">
         <div class="card-body">
-          {{- with $item.url -}}
+          {{ with $item.url }}
           <a href="{{ . }}" target="_blank" rel="noopener">
-          {{- end -}}
-          <h4 class="card-title exp-title text-muted my-0">{{ $item.title | markdownify | emojify }}</h4>
-          {{- with $item.url -}}</a>{{- end -}}
+          {{ end }}
+          <h4 class="card-title exp-title text-muted my-0">{{ $item.title | default "Untitled" | markdownify | emojify }}</h4>
+          {{ with $item.url }}</a>{{ end }}
 
           <div class="card-subtitle my-0 article-metadata">
-            {{- with $item.organization_url }}
+            {{ with $item.organization_url }}
             <a href="{{ . }}" target="_blank" rel="noopener">
-            {{ end -}}
-            {{ $item.organization | markdownify | emojify }}
-            {{- with $item.organization_url }}</a>{{ end -}}
+            {{ end }}
+            {{ $item.organization | default "Unknown Organization" | markdownify | emojify }}
+            {{ with $item.organization_url }}</a>{{ end }}
 
             {{ if or $item.date_start $item.date_end }}
             <span class="middot-divider"></span>
