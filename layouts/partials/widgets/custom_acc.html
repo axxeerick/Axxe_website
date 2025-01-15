@@ -1,55 +1,51 @@
-{{ $ := .root }}
-{{ $page := .Page }}
-
-<!-- Debugging output -->
-{{ printf "Debugging: %v" $page.Params.item }}
-
 <div class="row">
   <div class="col-12 col-lg-4 section-heading">
-    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
-    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+    <h1>{{ with .Page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with .Page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
   </div>
   <div class="col-12 col-lg-8">
-    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
-
-    {{ if $page.Params.item }}
-    {{ range $idx, $key := sort $page.Params.item ".date_start" "desc" }}
+    {{ if .Page.Params.items }}
+    {{ range $idx, $item := .Page.Params.items }}
       <div class="card experience course">
         <div class="card-body">
-          {{- with .url -}}<a href="{{.}}" target="_blank" rel="noopener">{{- end -}}
-          <h4 class="card-title exp-title text-muted my-0">{{.title | markdownify | emojify}}</h4>
-          {{- with .url -}}</a>{{- end -}}
+          {{- with $item.url -}}
+          <a href="{{ . }}" target="_blank" rel="noopener">
+          {{- end -}}
+          <h4 class="card-title exp-title text-muted my-0">{{ $item.title | markdownify | emojify }}</h4>
+          {{- with $item.url -}}</a>{{- end -}}
 
           <div class="card-subtitle my-0 article-metadata">
-            {{- with .organization_url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
-            {{- .organization | markdownify | emojify }}
-            {{- with .organization_url }}</a>{{ end -}}
+            {{- with $item.organization_url }}
+            <a href="{{ . }}" target="_blank" rel="noopener">
+            {{ end -}}
+            {{ $item.organization | markdownify | emojify }}
+            {{- with $item.organization_url }}</a>{{ end -}}
 
-            {{ if or (and .date_start (not (eq .date_start ""))) .date_end }}
+            {{ if or $item.date_start $item.date_end }}
             <span class="middot-divider"></span>
-            {{ if and .date_start (not (eq .date_start "")) }}
-            {{ (time .date_start).Format ($page.Params.date_format | default "Jan 2006") }}
+            {{ if $item.date_start }}
+            {{ (time $item.date_start).Format "Jan 2006" }}
             {{ end }}
-            {{ if .date_end }}
-            {{ if and .date_start (not (eq .date_start "")) }} – {{ end }}{{ (time .date_end).Format ($page.Params.date_format | default "Jan 2006") }}
+            {{ if $item.date_end }}
+            {{ if $item.date_start }} – {{ end }}{{ (time $item.date_end).Format "Jan 2006" }}
             {{ end }}
             {{ end }}
           </div>
 
-          {{ with .description }}
-            <div class="card-text">{{ . | markdownify | emojify }}</div>
+          {{ with $item.description }}
+          <div class="card-text">{{ . | markdownify | emojify }}</div>
           {{ end }}
 
-          {{ with .certificate_url }}
-            <a class="card-link" href="{{ . }}" target="_blank" rel="noopener">
-              {{ i18n "see_certificate" | default "See certificate" }}
-            </a>
+          {{ with $item.certificate_url }}
+          <a class="card-link" href="{{ . }}" target="_blank" rel="noopener">
+            {{ i18n "see_certificate" | default "See certificate" }}
+          </a>
           {{ end }}
         </div>
       </div>
     {{ end }}
     {{ else }}
-    <p>No items to display in accomplishments.</p>
+    <p>No updates available.</p>
     {{ end }}
   </div>
 </div>
