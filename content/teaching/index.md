@@ -2,6 +2,6 @@
 title: "Teaching Portfolio"
 layout: "widget_page"
 widgets:
-  - name: "custom_accomplishments"
+  - name: "custom_acc"
     data: "updates.md"
 ---
