@@ -49,9 +49,9 @@ date_format = "Jan 2006"
   description = "Explore the systematic tools of sociological and anthropological research in Sociological Research Methods (SOCI 335). This course emphasizes the importance of empirical investigation to better understand the social world and challenge common assumptions. Students will learn to develop research questions, design and implement research projects, and apply techniques such as interviews, surveys, and secondary data analysis using R. By the end of the course, participants will present their findings through an extended abstract and a research presentation, preparing them for future academic and professional contributions. Please see the course [syllabus](/teaching/presentations/SocResearchMethods_Syllabus_Axxe.pdf) and [timeline](/teaching/presentations/SocResearchMethods_CourseTimeline_20230829.xlsx)."
 
 [[item]]
-  organization = "Sociology of Education"
+  organization = "Instructor"
   organization_url = ""
-  title = "Instructor"
+  title = "Sociology of Education"
   url = ""
   certificate_url = ""
   date_start = "2023-01-11"
@@ -59,9 +59,9 @@ date_format = "Jan 2006"
   description = "Examine education as a foundational social institution through a sociological lens in Sociology of Education (SOCI 385). This course investigates the history, theories, and empirical impact of education on outcomes such as learning, social mobility, health, and identity. Students will explore the structural and interactional forces shaping educational experiences and outcomes while analyzing contemporary issues like privatization, athletics, and admissions. Through reading notes, assignments, exams, and a group research project, participants will connect sociological theory to real-world educational phenomena. Please see the course [syllabus](/teaching/presentations/SocOfEd_Syllabus_20241007.pdf) and [timeline](/teaching/presentations/SocOfEd_Timeline_20241007.xlsx)."
 
 [[item]]
-  organization = "Introduction to Sociology"
+  organization = "Instructor"
   organization_url = ""
-  title = "Instructor"
+  title = "Introduction to Sociology"
   url = ""
   certificate_url = ""
   date_start = "2023-01-11"
