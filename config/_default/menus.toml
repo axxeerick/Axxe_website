@@ -13,32 +13,32 @@
   url = "files/cv.pdf"
   weight = 20
 
-  [[main]]
-    name = "Research"
-    url = "Updates/"
-    identifier = "projects"
-    weight = 25
+#  [[main]]
+#    name = "Research"
+#    url = "Updates/"
+#    identifier = "projects"
+#    weight = 25
 
-  [[main]]
-    name = "Presentations"
-    url = "presentations/"
-    identifier = "present"
-    parent = "projects"
-    weight = 2
+#  [[main]]
+#    name = "Presentations"
+#    url = "presentations/"
+#    identifier = "present"
+#    parent = "projects"
+#    weight = 2
 
-  [[main]]
-    name = "Authored Works"
-    url = "author/"
-    identifier = "author"
-    parent = "projects"
-    weight = 1
+#  [[main]]
+#    name = "Authored Works"
+#    url = "author/"
+#    identifier = "author"
+#    parent = "projects"
+#    weight = 1
 
-  [[main]]
-    name = "Trainings"
-    url = "trainings/"
-    identifier = "train"
-    parent = "projects"
-    weight = 3
+#  [[main]]
+#    name = "Trainings"
+#    url = "trainings/"
+#    identifier = "train"
+#    parent = "projects"
+#    weight = 3
 
 
 
@@ -51,32 +51,32 @@
   #  parent = "projects"
   #  weight = 1
 
-  [[main]]
-    name = "Teaching"
-    url = "teaching/"
-    identifier = "teach"
-    weight = 26
+#  [[main]]
+#    name = "Teaching"
+#    url = "teaching/"
+#    identifier = "teach"
+#    weight = 26
 
-  [[main]]
-    name = "Experience"
-    url = "class/"
-    identifier = "class"
-    parent = "teach"
-    weight = 1
+#  [[main]]
+#    name = "Experience"
+#    url = "class/"
+#    identifier = "class"
+#    parent = "teach"
+#    weight = 1
 
-  [[main]]
-    name = "Certifications"
-    url = "certify/"
-    identifier = "certify"
-    parent = "teach"
-    weight = 2
+#  [[main]]
+#    name = "Certifications"
+#    url = "certify/"
+#    identifier = "certify"
+#    parent = "teach"
+#    weight = 2
 
-  [[main]]
-    name = "Awards & Service"
-    url = "teach_award/"
-    identifier = "teach_award"
-    parent = "teach"
-    weight = 3
+#  [[main]]
+#    name = "Awards & Service"
+#    url = "teach_award/"
+#    identifier = "teach_award"
+#    parent = "teach"
+#    weight = 3
 
 
 
