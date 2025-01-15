@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   title = "Race and Ethnicity"
   url = ""
   certificate_url = ""
-  date_start = "2024-08-24"
+  date_start = ""
   date_end = ""
   description = "Race & Ethnicity (SOCI 270) examines the social construction and maintenance of race and ethnicity, exploring their historical origins, societal impacts, and modern-day relevance. Students will analyze how these constructs stratify society and shape individual identity, using sociological theories and evidence. The course fosters critical thinking about contemporary racial trends and transformations while encouraging discussions that empower students to become advocates for a more equitable society. Please see the course [syllabus](/teaching/presentations/RaceEthn_Fall2024_Axxe.pdf) and [timeline](/teaching/presentations/RaceEthn_Timeline_20240906.xlsx)."
 
