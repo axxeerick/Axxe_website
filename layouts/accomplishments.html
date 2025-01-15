@@ -1,0 +1,15 @@
+<div class="card-subtitle my-0 article-metadata">
+  {{- with .organization_url}}<a href="{{.}}" target="_blank" rel="noopener">{{end -}}
+  {{- .organization | markdownify | emojify -}}
+  {{- with .organization_url}}</a>{{end -}}
+
+  {{ if or .date_start .date_end }}
+  <span class="middot-divider"></span>
+  {{ if .date_start }}
+  {{ (time .date_start).Format ($page.Params.date_format | default "Jan 2006") }}
+  {{ end }}
+  {{ if .date_end }}
+  {{ if .date_start }} – {{ end }}{{ (time .date_end).Format ($page.Params.date_format | default "Jan 2006") }}
+  {{ end }}
+  {{ end }}
+</div>
