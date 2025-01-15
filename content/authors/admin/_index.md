@@ -74,7 +74,7 @@ user_groups:
 ---
 I am an Assistant Professor of Sociology at Hendrix College, specializing in social stratification during the transition to adulthood. My research focuses on how young people navigate pivotal life-course institutions, including education, the labor market, parenthood, and marriage. By examining patterns in how individuals engage with these foundational systems, I aim to untangle the interplay between structural forces and individual agency in shaping life trajectories. 
 
-See my full CV [here](https://axxe.netlify.app/files/cv.pdf].
+See my full CV [here](https://axxe.netlify.app/files/cv.pdf).
 
 
 
