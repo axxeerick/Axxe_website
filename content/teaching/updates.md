@@ -1,5 +1,5 @@
 ---
-widget: "custom_accomplishments"
+widget: "custom_acc"
 title: "Recent Updates"
 subtitle: "Highlights from my professional and academic achievements."
 items:
