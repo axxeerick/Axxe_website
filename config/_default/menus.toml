@@ -51,11 +51,11 @@
   #  parent = "projects"
   #  weight = 1
 
-#  [[main]]
-#    name = "Teaching"
-#    url = "teaching/"
-#    identifier = "teach"
-#    weight = 26
+  [[main]]
+    name = "Teaching"
+    url = "teaching/"
+    identifier = "teach"
+    weight = 26
 
 #  [[main]]
 #    name = "Experience"

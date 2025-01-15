@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Teaching"
-subtitle = "Teaching positions, syllabi, SEIs, and trainings"
+title = "Courses taught"
+subtitle = "Fostering thoughtful engagement through real-world connections, authentic assignments, and an inclusive learning environment. Explore my teaching portfolio to find course descriptions, syllabi, and examples of how I inspire intrinsic motivation and a sociological imagination in students."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,82 +19,52 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Instructor"
+  organization = "Race and Ethnicity"
   organization_url = ""
-  title = "Racial and Ethnic Relations in the United States"
+  title = "Instructor"
   url = ""
   certificate_url = ""
   date_start = "2021-08-24"
-  date_end = "2021-12-10"
+  date_end = ""
   description = "[Syllabus](/teaching/presentations/RaceEthn_Syllabus_Fall2021.pdf)"
 
 [[item]]
-  organization = "Department of Sociology"
+  organization = "Social Statistics"
   organization_url = ""
-  title = "Graduate Representative for the Instructional Development Committee"
+  title = "Instructor"
   url = ""
   certificate_url = ""
   date_start = "2021-06-11"
-  date_end = "2022-05-11"
-  description = "Elected by Sociology graduate students to collaborate with the department's Instructional Development Committee and develop graduate student training for instructors."
-
-[[item]]
-  organization = "Teaching Award"
-  organization_url = ""
-  title = "Outstanding Independent Instructor"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-05-06"
-  date_end = ""
-  description = "Nominated by students, awarded by Sociology Graduate Student Association"
-
-[[item]]
-  organization = "Instructor"
-  organization_url = ""
-  title = "Intro to Sociology"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-01-11"
-  date_end = "2021-04-23"
-  description = "[Syllabus](/teaching/presentations/IntroToSoc_Spr2021_Axxe_20210119.pdf) & [SEIs](/teaching/presentations/Intro_Spr2021.pdf)"
-
-[[item]]
-  organization = "Drake Institute for Teaching and Learning"
-  organization_url = ""
-  title = "Teaching Online Endorsement"
-  url = ""
-  certificate_url = ""
-  date_start = "2021-02-25"
-  date_end = ""
-  description = "[Completed workshops and assignments on effective online-teaching practices.](/Teaching/presentations/OnlineTeaching.pdf)"
-
-[[item]]
-  organization = "Computational Social Science Research Program"
-  organization_url = ""
-  title = "Undergraduate Research Training"
-  url = ""
-  certificate_url = ""
-  date_start = "2020-01-26"
-  date_end = "2021-08-25"
-  description = "Trained six undergraduates students in Python and R to gather data off the internet and analyze those data using statistical techniques. Our team also developed software and publications."
-
-[[item]]
-  organization = "Maputo, Mozambique"
-  organization_url = ""
-  title = "FAMELO Interviewer Training"
-  url = ""
-  certificate_url = ""
-  date_start = "2019-10-26"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "Teaching Assistant"
+  organization = "Sociological Research Methods"
   organization_url = ""
-  title = "Introduction to Sociology"
+  title = "Instructor"
   url = ""
   certificate_url = ""
-  date_start = "2018-08-25"
-  date_end = "2018-12-12"
-  description = "Graduate Teaching Assistant for Introduction to Sociology taught by Dr. Eric Schoon"
+  date_start = "2021-05-06"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Sociology of Education"
+  organization_url = ""
+  title = "Instructor"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-11"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Introduction to Sociology"
+  organization_url = ""
+  title = "Instructor"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-01-11"
+  date_end = ""
+  description = ""
 +++
