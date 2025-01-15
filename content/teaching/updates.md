@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Courses taught"
-subtitle = "Fostering thoughtful engagement through real-world connections, authentic assignments, and an inclusive learning environment. Explore my teaching portfolio to find course descriptions, syllabi, and examples of how I inspire intrinsic motivation and a sociological imagination in students."
+title = "Teaching portfolio"
+subtitle = "My teaching philosophy emphasizes fostering thoughtful engagement through meaningful real-world connections, authentic and impactful assignments, and a commitment to creating an inclusive learning environment. In my teaching portfolio, you’ll find course descriptions, syllabi, and resources that showcase how I cultivate intrinsic motivation and empower students to develop a sociological imagination, encouraging them to critically engage with the world around them."
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
