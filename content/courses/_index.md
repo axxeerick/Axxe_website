@@ -1,9 +1,9 @@
 ---
-title: "Courses"
+title: "Teaching"
 menu:
   main:
-    name: "Courses"
-    weight: 2
+    name: "Courses & Syllabi"
+    weight: 25
 ---
 
 Here is a list of courses I have taught, with syllabi and course resources.
