@@ -13,6 +13,11 @@
   url = "files/cv.pdf"
   weight = 20
 
+  [[main]]
+    name = "Teaching"
+    url = "courses/"
+    weight = 25
+
 #  [[main]]
 #    name = "Research"
 #    url = "Updates/"
