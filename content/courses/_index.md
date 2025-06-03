@@ -1,8 +1,8 @@
 ---
-title: "Teaching"
+title: "Courses"
 menu:
   main:
-    name: "Teaching"
+    name: "Courses"
     weight: 2
 ---
 
