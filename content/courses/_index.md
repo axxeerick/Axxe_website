@@ -1,8 +1,8 @@
 ---
-title: "Teaching"
+title: "Courses & Syllabi"
 menu:
   main:
-    name: "Courses & Syllabi"
+    name: "Teaching"
     weight: 25
 ---
 
@@ -15,7 +15,7 @@ Here is a list of courses I have taught, with syllabi and course resources.
 - [Syllabus (PDF)](/courses/presentations/RaceEthn_Fall2024_Axxe.pdf)
 - [Timeline (XLSX)](/courses/presentations/RaceEthn_Timeline_20240906.xlsx)
 
-### Social Statistics
+### Social Statistics (SOCI 210)
 - [Syllabus (PDF)](/courses/presentations/SocialStats_syllabus_axxe_20240812.pdf)
 
 ### Sociological Research Methods (SOCI 335)
