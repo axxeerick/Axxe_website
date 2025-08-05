@@ -72,7 +72,9 @@ user_groups:
 
 # Extra info: I am a graduate affiliate in the [Department of Sociology](https://sociology.osu.edu/), the [Institute for Population Research](https://ipr.osu.edu/), and the [Translational Data Analytics Institute](https://tdai.osu.edu/) at The Ohio State University.
 ---
-I am an Assistant Professor of Sociology at Hendrix College, specializing in social stratification during the transition to adulthood. My research focuses on how young people navigate pivotal life-course institutions, including education, the labor market, migration, and marriage. By examining patterns in how individuals engage with these foundational systems, I aim to untangle the interplay between structural forces and individual agency in shaping life trajectories. 
+I’m an Assistant Professor of Sociology at Hendrix College. I study how young people figure out what’s next—choosing a major, looking for work, deciding whether to move or stay close to home, or thinking about relationships and family. These decisions don’t happen in a vacuum. They’re shaped by things like family background, financial pressure, local culture, and the messages young people get from schools and communities. Understanding these patterns can help explain why opportunities feel wide open for some—and more limited for others.
+
+In my research, I use interviews and large-scale, long-term datasets to trace how life paths take shape over time. This work combines the human side of storytelling with the analytical power of data—skills that are valuable in fields like research, policy, education, marketing, and beyond. If you’re drawn to questions about how the world works and want tools to investigate it, this kind of sociology offers both meaning and method.
 
 See my full CV [here](https://axxe.netlify.app/files/cv.pdf).
 
