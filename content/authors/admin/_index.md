@@ -74,7 +74,7 @@ user_groups:
 ---
 I’m an Assistant Professor of Sociology at Hendrix College. I study how young people make decisions about their futures—what to study, where to work, when (and whether) to leave home—and how those choices are shaped by their social and cultural environments. These moments can seem personal, but they often reflect broader forces: class background can affect how confident someone feels in college; local culture can shape what marriage means; and the timing of adulthood can look very different depending on where a young person grows up. My research shows how these factors shape life paths, sometimes in ways we wouldn’t expect.
 
-I use both interviews and advanced data analysis methods—including longitudinal data, hierarchical models, and computational tools—to understand how lives unfold over time. My work has appeared in *Sociological Forum*, *Journal of Research on Adolescence*, and *Journal of Comparative Family Studies*, and includes studies of major choice, belonging in college, migration and marriage preferences, and how adolescents come to see themselves as adults.
+I use both interviews and quantitative data analysis methods—including longitudinal data, hierarchical models, and computational tools—to understand how lives unfold over time. My work has appeared in *Sociological Forum*, *Journal of Research on Adolescence*, and *Journal of Comparative Family Studies*, and includes studies of major choice, belonging in college, migration and marriage preferences, and how adolescents come to see themselves as adults.
 
 See my full CV [here](https://axxe.netlify.app/files/cv.pdf).
 
