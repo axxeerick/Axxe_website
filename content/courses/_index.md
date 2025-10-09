@@ -15,8 +15,8 @@ Here is a list of courses I have taught, with syllabi and course resources.
 - [Syllabus (PDF)](/courses/presentations/SocialStats_syllabus_axxe_20240812.pdf)
 
 ### Race and Ethnicity (SOCI 270)
-- [Syllabus (PDF)](/courses/presentations/RaceEthn_Fall2024_Axxe.pdf)
-- [Timeline (XLSX)](/courses/presentations/RaceEthn_Timeline_20240906.xlsx)
+- [Syllabus (PDF)](/courses/presentations/RaceEthn_Fall2025_Axxe_20240827.pdf)
+- [Timeline (XLSX)](/courses/presentations/RaceEthn_Timeline_20251008.xlsx)
 
 ### Sociological Research Methods (SOCI 335)
 - [Syllabus (PDF)](/courses/presentations/SocResearchMethods_Axxe_20250130.pdf)
