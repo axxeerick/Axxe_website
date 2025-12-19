@@ -6,7 +6,7 @@ menu:
     weight: 25
 ---
 
-I design courses that help you connect sociological theory to real-world problems through structured practice: analyzing data, building arguments from evidence, and communicating findings clearly. I use transparent expectations, frequent low-stakes feedback, and collaborative learning activities to support student growth while maintaining high standards. Across courses, I emphasize how race, class, and gender shape institutions and life chances, and I encourage students to develop tools for inquiry they can carry beyond the classroom.
+I design courses that help students to connect sociological theory to real-world problems through structured practice: analyzing data, building arguments from evidence, and communicating findings clearly. I use transparent expectations, frequent low-stakes feedback, and collaborative learning activities to support student growth while maintaining high standards. Across courses, I emphasize how race, class, and gender shape institutions and life chances, and I encourage students to develop tools for inquiry they can carry beyond the classroom.
 
 Below, you can find my course syllabi. 
 
