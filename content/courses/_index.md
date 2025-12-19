@@ -1,12 +1,10 @@
 ---
-title: "Courses & Syllabi"
+title: "Teaching"
 menu:
   main:
     name: "Teaching"
     weight: 25
 ---
-
-## Teaching philosophy
 
 I design courses that help you connect sociological theory to real-world problems through structured practice: analyzing data, building arguments from evidence, and communicating findings clearly. I use transparent expectations, frequent low-stakes feedback, and collaborative learning activities to support student growth while maintaining high standards. Across courses, I emphasize how race, class, and gender shape institutions and life chances, and I encourage students to develop tools for inquiry they can carry beyond the classroom.
 
