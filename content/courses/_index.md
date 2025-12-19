@@ -6,7 +6,11 @@ menu:
     weight: 25
 ---
 
-Here is a list of courses I have taught, with syllabi and course resources.
+## Teaching philosophy
+
+I design courses that help you connect sociological theory to real-world problems through structured practice: analyzing data, building arguments from evidence, and communicating findings clearly. I use transparent expectations, frequent low-stakes feedback, and collaborative learning activities to support student growth while maintaining high standards. Across courses, I emphasize how race, class, and gender shape institutions and life chances, and I encourage students to develop tools for inquiry they can carry beyond the classroom.
+
+Below, you can find my course syllabi. 
 
 ### Introduction to Sociology (SOCI 110)
 - [Syllabus (PDF)](/courses/presentations/IntroToSoc_Syllabus_Axxe_20250219.pdf)
@@ -27,5 +31,5 @@ Here is a list of courses I have taught, with syllabi and course resources.
 - [Timeline (XLSX)](/courses/presentations/EnvSoc_Timeline_20250218.xlsx)
 
 ### Sociology of Education (SOCI 385)
-- [Syllabus (PDF)](/courses/presentations/SocOfEd_Syllabus_20241007.pdf)
-- [Timeline (XLSX)](/courses/presentations/SocOfEd_Timeline_20241007.xlsx)
+- [Syllabus (PDF)](/courses/presentations/SocOfEd_Syllabus_20251016.pdf)
+- [Timeline (XLSX)](/courses/presentations/SocOfEd_Timeline_20251016.xlsx)
